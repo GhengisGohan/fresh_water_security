@@ -23,3 +23,14 @@ class noaa_explore:
         #get NOAA API data categories
         return noaa_explore.get_NOAA_API_data('https://www.ncei.noaa.gov/cdo-web/api/v2/datacategories','eZzNWfQiHALrbtEHTjtzEwpGeZXPDYhV')
 
+class alt_pulls: 
+    def pull_state_water_consump():
+
+    def pull_sustainable_levels():
+
+class noaa_pull:
+    def pull_raindata():
+
+    def pull_snowmelt():
+
+    
